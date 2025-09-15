@@ -6,7 +6,7 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
 
-    background-color: #73df8c72;
+    background: linear-gradient(#3CDBD3, #7DCE82);
     border-radius: 10px;
     text-align: center;
     display: flex;
@@ -26,7 +26,7 @@
 
     
 
-    background-color: #6569f672;
+    background-color: #09BC8A;
 
 }
 
